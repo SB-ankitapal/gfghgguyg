@@ -11,7 +11,7 @@ info:
     email: dataops@flex.one
     name: Dataops
     url: 'https://www.flex.one'
-  description: 'Endpoints for Analytics hbhbk,lll,l,l'
+  description: 'Endpoints for Analytics hbhbk,lll,l,ljkj'
   summary: Analytics
 servers:
   - url: 'http://localhost:3000'
